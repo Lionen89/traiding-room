@@ -4,7 +4,7 @@
 
 ## _Описание_
 
-![Комната](https://pastenow.ru/e85c26c3da1f5ab627affec8556bf652)
+![Комната](https://ibb.co/LQSH46w)
 
 [ Ссылка на задание](https://github.com/lotus-uems/Test_React_Trade)
 
