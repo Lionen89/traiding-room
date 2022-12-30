@@ -6,6 +6,8 @@
 
 ![Комната](https://i.ibb.co/KN6SC7Z/image.jpg)
 
+[Готовый проект](https://Lionen89.github.io/traiding-room)
+
 [ Ссылка на задание](https://github.com/lotus-uems/Test_React_Trade)
 
 ### **_О чём проект?_**
