@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/traiding-room/static/css/main.49bf9bb1.css",
-    "main.js": "/traiding-room/static/js/main.ad5dc950.js",
+    "main.js": "/traiding-room/static/js/main.6964a516.js",
     "index.html": "/traiding-room/index.html",
     "main.49bf9bb1.css.map": "/traiding-room/static/css/main.49bf9bb1.css.map",
-    "main.ad5dc950.js.map": "/traiding-room/static/js/main.ad5dc950.js.map"
+    "main.6964a516.js.map": "/traiding-room/static/js/main.6964a516.js.map"
   },
   "entrypoints": [
     "static/css/main.49bf9bb1.css",
-    "static/js/main.ad5dc950.js"
+    "static/js/main.6964a516.js"
   ]
 }
