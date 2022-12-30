@@ -1,0 +1,10 @@
+.main-page {
+  background-color: white;
+  font-family: sans-serif, Arial;
+  min-height: 100vh;
+  &__container {
+    min-width: 320px;
+    max-width: 1280px;
+    margin: 0 20px;
+  }
+}

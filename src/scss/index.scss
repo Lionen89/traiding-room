@@ -1,0 +1,10 @@
+@import './user';
+@import './main-page.scss';
+@import './body.scss';
+@import './header.scss';
+@import './timer.scss';
+@import './parametrs.scss';
+
+body {
+  @include reset;
+}

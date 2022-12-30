@@ -1,0 +1,32 @@
+@import './mixins.scss';
+
+.body {
+  @include reset;
+  display: flex;
+  flex-direction: column;
+  &__text {
+    color: red;
+    @include reset;
+    display: inline-block;
+    font-size: medium;
+    font-weight: normal;
+    background-color: #ebd1e3;
+    max-width: 70%;
+  }
+  &__info {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    &-text {
+      color: lightskyblue;
+      @include reset;
+      min-width: 30%;
+      text-align: center;
+      font-size: large;
+      padding: 10px 0;
+    }
+  }
+  &__main-container {
+    display: flex;
+  }
+}

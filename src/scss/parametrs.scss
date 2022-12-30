@@ -1,0 +1,34 @@
+@import './mixins.scss';
+
+.parametrs {
+  max-width: 30%;
+  &__title {
+    @include reset;
+    font-size: large;
+    text-align: center;
+    color: lightskyblue;
+    margin-bottom: 30px;
+  }
+  &__text {
+    @include reset;
+    text-align: start;
+    padding: 10px 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    &-container {
+      @include reset;
+      border-top: solid 1px black;
+    }
+    &:nth-child(2n + 1) {
+      background-color: lightgray;
+    }
+    &:first-child {
+      height: 36px;
+    }
+    &:nth-child(5) {
+      height: 54px;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+@import './mixins.scss';
+.user {
+  width: 20%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+
+  &__title {
+    @include reset;
+    font-size: large;
+    text-align: center;
+    color: lightskyblue;
+    margin-bottom: 30px;
+  }
+  &__text {
+    @include reset;
+    padding: 10px 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    &-container {
+      @include reset;
+      border-top: solid 1px black;
+      display: flex;
+      flex-direction: column;
+    }
+    &:nth-child(2n + 1) {
+      background-color: lightgray;
+    }
+    &:first-child {
+      height: 36px;
+    }
+    &:nth-child(5) {
+      height: 54px;
+    }
+  }
+}
