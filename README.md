@@ -4,7 +4,8 @@
 
 ## _Описание_
 
-### <img src="https://pastenow.ru/e85c26c3da1f5ab627affec8556bf652" width="25" />
+![Комната]([https://i.ibb.co/xsJbBjM/work-acro.jpg](https://pastenow.ru/e85c26c3da1f5ab627affec8556bf652))
+
 [ Ссылка на задание](https://github.com/lotus-uems/Test_React_Trade)
 
 ### **_О чём проект?_**
