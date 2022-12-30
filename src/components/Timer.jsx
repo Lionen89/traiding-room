@@ -14,7 +14,6 @@ const Timer = ({ users, auctionTime, userTime = '120' }) => {
     setCounter(counter + 1);
     setCommonCounter(commonCounter + 1);
   };
-  console.log(userTime * commonCounter);
 
   if (minutes + seconds === 0 && auctionTime !== userTime * (commonCounter + 1)) {
     handleInc();
